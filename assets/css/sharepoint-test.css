@@ -2,3 +2,7 @@ button {
     font-family: inherit;
     background-color: black;
 }
+
+#SuiteNavPlaceholder {
+    display: none !important ;
+}
